@@ -51,7 +51,7 @@ Locales['de'] = {
   ['dolomite'] = 'dolomit',
   ['bluesilver'] = 'blaues Silber',
   ['titanium'] = 'titan',
-  ['steelblue'] = 'Metal Blau'
+  ['steelblue'] = 'Metal Blau',
   ['champagne'] = 'champagne',
   ['grayhunter'] = 'grauer Jäger',
   -- Red
