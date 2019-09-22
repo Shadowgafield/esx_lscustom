@@ -1,5 +1,5 @@
 Locales['de'] = {
-  ['by_default'] = 'default',
+  ['by_default'] = 'Standard',
   ['installed'] = 'installiert',
   ['already_own'] = 'du besitzt bereits: ~b~%s~s~',
   ['not_enough_money'] = 'du hast nicht genug Geld!',
